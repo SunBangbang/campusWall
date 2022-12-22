@@ -1,0 +1,48 @@
+<view class="all">
+  <view class="index">
+<image class="bg" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fac7813a3489cd5585aeb97cf89f8530e3481c4e3479ae-JjP27j_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657111998&t=d681a90abe9addf052e0064305d1c1b0"></image>
+</view>
+
+  <swiper autoplay="true" interval="5000">
+    <swiper-item>
+      <image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fnimg.ws.126.net%2F%3Furl%3Dhttp%253A%252F%252Fdingyue.ws.126.net%252F2021%252F0702%252F9110db0bj00qvm3ig001yc000rs00jfc.jpg%26thumbnail%3D650x2147483647%26quality%3D80%26type%3Djpg&refer=http%3A%2F%2Fnimg.ws.126.net&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657097236&t=ee22f829a6e7b0b09c700be9ccde0806"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13444223874%2F641&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657097236&t=0d80cda730c0286f5ec2d7efd1345783"></image>
+    </swiper-item>
+    <swiper-item>
+      <image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13709646723%2F1000.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657097236&t=c0f55d4c1f9b4ada8afa1476084fbe82"></image>
+    </swiper-item> 
+    <swiper-item>
+      <image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13543297110%2F1000.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657097236&t=d055df5c8443020cc063cd6cccdfdf46"></image>
+    </swiper-item> 
+    <swiper-item>
+      <image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13543297108%2F1000.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657285255&t=2000f0b80e2bd7a8afbc77a4384fea6f"></image>
+    </swiper-item> 
+    <swiper-item>
+      <image src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F13261145159%2F1000.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1657285255&t=fb1408501f59a8bc068cc5245b59c089"></image>
+    </swiper-item> 
+  </swiper>
+  <view class="line">
+    <view class="box" bindtap="biaobai">
+      <image src="../../images/biaobai.png"></image>
+      <view>表白墙</view>
+    </view>
+    <view class="box" bindtap="lost">
+      <image src="../../images/lost.png"></image>
+      <view>失物招领</view>
+    </view>
+  </view>
+  <view class="line">
+    
+    <view class="box" bindtap="xianzhi">
+      <image src="../../images/xianzhi.png"></image>
+      <view>闲置买卖</view>
+    </view>
+    <view class="box" bindtap="xuexiziliao">
+      <image src="../../images/学习资料.png"></image>
+      <view>学习资料</view>
+    </view>
+  </view>
+  
+</view>

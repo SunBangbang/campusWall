@@ -1,0 +1,11 @@
+
+ <view class='about_data'>
+   <view>校园综合墙,是一个综合墙！</view>
+  </view>
+  
+<view class='about_title'>
+  联系我们
+</view>
+<view class='lianxi_list' bindtap='makePhone'>合作电话: 15958287795</view>
+<view class='lianxi_list border-b'>E-mail: xx@qq.com</view>
+<view class='lianxi_list border-b' bindtap="dizhi">地址：温州理工学院茶山校区</view>

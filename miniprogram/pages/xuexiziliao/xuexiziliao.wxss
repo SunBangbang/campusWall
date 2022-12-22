@@ -1,0 +1,30 @@
+.tle{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+
+.gs0{
+    margin-top: 20rpx;
+    margin-bottom: 40rpx;
+}
+
+.gs1{
+    flex-direction: row;
+    width: 100%;
+    height: 110rpx;
+    display: flex;
+    align-items: center;
+    border: 1rpx ;
+    margin:2rpx;
+    background-color:silver;
+}
+
+image{
+    height: 100rpx;
+    width: 100rpx;
+}
+
+text{
+    width: 60%;
+}

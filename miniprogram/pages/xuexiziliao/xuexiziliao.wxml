@@ -1,0 +1,10 @@
+<view class="tle">
+    <view class="gs0"> 
+        <text style="font-size: 70rpx;color: darkred;">学习资料</text>
+    </view>
+    <view class="gs1" wx:for="{{ziliao}}" wx:for-item="zl" wx:key="id">
+        <image src="../../images/学习资料.png"></image>
+        <text style="font-size: 40rpx;color:blue;">{{zl.title}}</text>
+        <button bindtap="openFile" type="primary" size="mini">查看</button>
+    </view>
+</view>
